@@ -1,6 +1,6 @@
 {
   "name": "com.kingdox.uniflux.click",
-  "displayName": "UniFlux",
+  "displayName": "UniFlux.Click",
   "version": "1.0.0",
   "author": "Kingdox",
   "unity": "2019.3",
@@ -17,7 +17,7 @@
   "category": "Flux",
   "repository": 
   {
-    "url": "https://github.com/kingdox/UniFlux.git",
+    "url": "https://github.com/kingdox/UniFlux.Click.git",
     "type": "git"
   },
   "bugs": {
